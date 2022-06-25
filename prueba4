@@ -1,0 +1,4 @@
+print("Prueba numero 3 python")
+texto = "4ta prueba de python en open-bootcamp, ya modificada, "
+variable = "La cadena de texto que pertenece a la variable texto es de tipo string"
+print(texto, variable)
