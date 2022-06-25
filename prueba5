@@ -1,0 +1,18 @@
+nombre= "Lenir"
+apellidos= "La Rosa"
+edad= 20
+email= "lenirlr070302@gmail.com"
+telefono="+584128018204"
+casado = False
+con_hijos= False
+diccionario= {
+"Peli": "Doctor Strange"
+}
+print(nombre)
+print(apellidos)
+print(edad)
+print(email)
+print(telefono)
+print(casado
+print(con_hijos)
+print(diccionario)
