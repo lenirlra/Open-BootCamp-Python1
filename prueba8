@@ -1,0 +1,9 @@
+# Mostrar numeros impares
+num_inicial=0
+num_final= 20
+
+while num_inicial<num_final:
+    num_inicial += 1
+    if not num_inicial % 2:
+        continue
+    print(num_inicial)
