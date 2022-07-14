@@ -1,0 +1,13 @@
+num= 0
+lista=[]
+while num < 101:
+    num += 1
+    if not num ==101:
+        lista.append(num)
+        continue
+    print("Impreso dentro de una lista")
+    print(lista[::-1])
+    print()
+    print("Impreso fuera de una lista")
+    for lista in reversed(lista):
+        print(lista)
